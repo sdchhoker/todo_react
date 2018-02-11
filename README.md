@@ -1,31 +1,19 @@
-# `angular-todo` — the starter for AngularJS apps
-
-Starter for angular
-
-
 ### Prerequisites
-
 
 You must have Node.js and its package manager (npm) installed. You can get them from [here][node].
 
 
-### Install Dependencies
+## Available Scripts
 
-We have preconfigured `npm` to automatically run `bower` so we can simply do:
+In the project directory, you can run:
 
-```
-npm install
-```
+### `npm start`
 
-### Run the Application
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-We have preconfigured the project with a simple development web server. The simplest way to start
-this server is:
-
-```
-npm start
-```
-Now browse to the app at [`localhost:8000/index.html`][local-app-url].
+The page will reload if you make edits.<br>
+You will also see any lint errors in the console.
 
 ### Task
 
@@ -36,6 +24,4 @@ Expected:
 * User should be able to mark a todo complete and uncomplete.
 * Use css layout schemes.
 
-
-[local-app-url]: http://localhost:8000/index.html
 [node]: https://nodejs.org/
