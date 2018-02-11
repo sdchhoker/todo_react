@@ -2,8 +2,6 @@
 
 You must have Node.js and its package manager (npm) installed. You can get them from [here][node].
 
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-
 
 ## Available Scripts
 
@@ -16,5 +14,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
+
+### Task
+
+Create a todo application.
+Expected:
+* User should be able to add a todo.
+* User should be able to delete a todo.
+* User should be able to mark a todo complete and uncomplete.
+* Use css layout schemes.
 
 [node]: https://nodejs.org/
