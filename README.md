@@ -19,9 +19,9 @@ You will also see any lint errors in the console.
 
 Create a todo application.
 Expected:
-* User should be able to add a todo.
-* User should be able to delete a todo.
-* User should be able to mark a todo complete and uncomplete.
+* User should be able to start a stopwatch.
+* User should be able to pause a stopwatch.
+* User should be able to reset a stopwatch.
 * Use css layout schemes.
 
 [node]: https://nodejs.org/
